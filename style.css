@@ -1,0 +1,40 @@
+body {
+background-color: #aaaaaa;
+}
+
+header{
+height: 200px;
+background-color: pink;
+color:green;
+}
+
+.menu{
+	float: right;
+	margin-top: 0px;
+	
+}
+
+nav {
+margin-top: 0rem; 
+display: block;
+background-color: yellow;
+display: none;
+}
+
+div {
+font-size: 20px;
+font-weight: bold;
+padding: 20px;
+}
+
+.grid-100 {
+
+	color: purple;
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+
+
+
